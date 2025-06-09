@@ -1,10 +1,10 @@
-<img src="raaa.png" alt="RAAA" width="150"/>
-
 # 👋 Hi, I'm Edwin Steven Niño Torres
 
 🎓 I'm a Systems and Computer Engineering student at the **Pedagogical and Technological University of Colombia (UPTC)**, currently in the final stages of my academic training.
 
 💡 I am passionate about developing functional, scalable, and innovative technological solutions. I have experience with various languages and frameworks, and I enjoy tackling challenges with creativity, attention to detail, and curiosity—often inspired by nature.
+
+<img src="raaa.png" alt="RAAA" width="150"/>
 
 ---
 

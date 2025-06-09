@@ -4,7 +4,7 @@
 
 💡 I am passionate about developing functional, scalable, and innovative technological solutions. I have experience with various languages and frameworks, and I enjoy tackling challenges with creativity, attention to detail, and curiosity—often inspired by nature.
 
-![My Portfolio Screenshot](raaa.png)
+![RAAA](raaa.png)
 
 ---
 
